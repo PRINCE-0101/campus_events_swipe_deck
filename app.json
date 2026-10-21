@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Campus Loop",
+    "slug": "campus-loop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "campusloop",
+    "android": {
+      "package": "com.prince.campusloop",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true
+    },
+    "ios": {
+      "bundleIdentifier": "com.prince.campusloop",
+      "supportsTablet": true
+    }
+  }
+}
